@@ -1,0 +1,101 @@
+metadata:
+  dataseturi: https://doi.org/10.1007/s10113-014-0718-5
+  hierarchylevel: dataset
+  identifier: "14"
+  language: en
+  language_alternate: ""
+  charset: utf8
+  parentidentifier: ""
+  datestamp: 2025-03-24T15:49:55.332110
+spatial:
+  datatype: grid
+  geomtype: surface
+distribution: {}
+contact:
+  originator:
+    url: ""
+    individualname: Markus Didion
+    positionname: ""
+    role: originator
+    organization: ""
+    email: ""
+    phone: ""
+    fax: ""
+    address: ""
+    city: ""
+    administrativearea: ""
+    postalcode: ""
+    country: ""
+  resourceProvider:
+    url: https://nioo.knaw.nl
+    role: resourceProvider
+    individualname: Geerten Hengeveld
+    positionname: ""
+    email: g.hengeveld@nioo.knaw.nl
+    organization: Netherlands Institute of Ecology (NIOO-KNAW)
+    phone: ""
+    fax: ""
+    address: ""
+    city: ""
+    administrativearea: ""
+    postalcode: ""
+    country: ""
+  pointOfContact:
+    url: https://nioo.knaw.nl
+    organization: Netherlands Institute of Ecology (NIOO-KNAW)
+    email: g.hengeveld@nioo.knaw.nl
+    individualname: Geerten Hengeveld
+    positionname: ""
+    role: pointOfContact
+    phone: ""
+    fax: ""
+    address: ""
+    city: ""
+    administrativearea: ""
+    postalcode: ""
+    country: ""
+identification:
+  url: https://doi.org/10.1007/s10113-014-0718-5
+  title: LandClim inputfiles for Zuid-Oost Veluwe
+  abstract: "Inputdata for LandClim simulations performed for: The landscape-level
+    effect of individual-owner adaptation to climate change in Dutch forests.
+    Hengeveld, G.M., Didion, M., Clerkx, S. et al. The landscape-level effect of
+    individual-owner adaptation to climate change in Dutch forests. Reg Environ
+    Change 15, 1515–1529 (2015)."
+  dates:
+    creation: ""
+    publication: ""
+    revision: ""
+  edition: ""
+  extents:
+    spatial:
+      - crs: 4326
+        bbox:
+          - 5.926765
+          - 52.004857
+          - 6.092635
+          - 52.114623
+    temporal:
+      - begin: 2010-01-01
+        end: 2010-01-01
+        resolution: P1Y
+  keywords:
+    i0:
+      keywords:
+        - forest
+        - landscape
+        - model
+      vocabulary:
+        name: ""
+      keywords_type: theme
+  language: en
+  status: completed
+  maintenancefrequency: notPlanned
+  accessconstraints: restricted
+  rights: CC-BY 4.0
+  topiccategory: []
+acquisition:
+  platforms: []
+dataquality:
+  lineage: {}
+  scope: {}
