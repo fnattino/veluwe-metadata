@@ -18,7 +18,8 @@ fi
 EXITCODE=0 # If no error, clean exit
 for MCF_FILE in `find ${MCF_FILE_DIR} -name "*.yml"` ; do
   pygeometa metadata validate ${MCF_FILE}
-  if [$? != 0] ; then
+  EXITCODE_MCF_FILE=$?
+  if [ $EXITCODE_MCF_FILE != 0 ] ; then
     EXITCODE = $?
   fi
 done
