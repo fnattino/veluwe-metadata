@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  dataseturi: https://www.rivm.nl/landelijk-meetnet-grondwaterkwaliteit/rapporten
+  hierarchylevel: dataset
+  identifier: "19"
+  language: nl
+  language_alternate: ""
+  charset: utf8
+  parentidentifier: ""
+  datestamp: 2025-05-21T14:24:56.468366
+spatial:
+  datatype: vector
+  geomtype: point
+distribution: {}
+contact:
+  originator:
+    url: https://www.rivm.nl
+    individualname: ""
+    positionname: ""
+    role: originator
+    organization: RIVM
+    email: ""
+    phone: ""
+    fax: ""
+    address: ""
+    city: ""
+    administrativearea: ""
+    postalcode: ""
+    country: ""
+  resourceProvider:
+    url: https://nioo.knaw.nl
+    role: resourceProvider
+    individualname: Floor Hoevers
+    positionname: ""
+    email: g.hengeveld@nioo.knaw.nl
+    organization: Netherlands Institute of Ecology (NIOO-KNAW)
+    phone: ""
+    fax: ""
+    address: ""
+    city: ""
+    administrativearea: ""
+    postalcode: ""
+    country: ""
+  pointOfContact:
+    url: https://www.rivm.nl
+    organization: RIVM
+    email: floris.naus@rivm.nl
+    individualname: Floris Naus
+    positionname: ""
+    role: pointOfContact
+    phone: ""
+    fax: ""
+    address: ""
+    city: ""
+    administrativearea: ""
+    postalcode: ""
+    country: ""
+identification:
+  url: https://www.rivm.nl/landelijk-meetnet-grondwaterkwaliteit/rapporten
+  title: Landelijk Meetnet Grondwaterkwaliteit
+  abstract: "Landelijk Meetnet Grondwaterkwaliteit met filters op 2 verschillende
+    dieptes (10 en 25m). 1980-heden. Bemonsteringscyclus van 1 jaar."
+  dates:
+    creation: ""
+    publication: ""
+    revision: ""
+  edition: ""
+  extents:
+    spatial:
+      - crs: 4326
+        bbox:
+          - 5.595475
+          - 51.974192
+          - 6.095371
+          - 52.473885
+    temporal:
+      - begin: 1980-01-01
+        resolution: P1Y
+  keywords:
+    i0:
+      keywords:
+        - grondwater
+        - waterkwaliteit
+        - landelijk meetnet
+      vocabulary:
+        name: ""
+      keywords_type: theme
+  language: nl
+  status: onGoing
+  maintenancefrequency: annually
+  accessconstraints: otherRestrictions
+  rights: CC-BY 4.0
+  topiccategory: []
+acquisition:
+  platforms: []
+dataquality:
+  lineage: {}
+  scope: {}
