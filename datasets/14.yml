@@ -1,3 +1,5 @@
+mcf:
+  version: 1.0
 metadata:
   dataseturi: https://doi.org/10.1007/s10113-014-0718-5
   hierarchylevel: dataset
