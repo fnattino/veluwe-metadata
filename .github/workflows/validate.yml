@@ -6,6 +6,8 @@ on:
     paths:
       - datasets/**
       - scripts/validate/**
+  push:
+    branches: [ "main" ]
   workflow_dispatch:
 
 jobs:
