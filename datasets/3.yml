@@ -1,0 +1,102 @@
+mcf:
+  version: 1.0
+metadata:
+  dataseturi: https://doi.org/10.34894/5SOKTV
+  hierarchylevel: dataset
+  identifier: "3"
+  language: en
+  language_alternate: ""
+  charset: utf8
+  parentidentifier: ""
+  datestamp: 2025-01-17T14:56:33.708883
+spatial:
+  datatype: vector
+  geomtype: point
+distribution: {}
+contact:
+  originator:
+    url: https://nioo.knaw.nl
+    individualname: Department of Animal Ecology
+    positionname: ""
+    role: originator
+    organization: Netherlands Institute of Ecology (NIOO-KNAW)
+    email: ""
+    phone: ""
+    fax: ""
+    address: ""
+    city: ""
+    administrativearea: ""
+    postalcode: ""
+    country: ""
+  resourceProvider:
+    url: https://nioo.knaw.nl
+    role: resourceProvider
+    individualname: Stefan Vriend
+    positionname: ""
+    email: s.vriend@nioo.knaw.nl
+    organization: Netherlands Institute of Ecology (NIOO-KNAW)
+    phone: ""
+    fax: ""
+    address: ""
+    city: ""
+    administrativearea: ""
+    postalcode: ""
+    country: ""
+  pointOfContact:
+    url: https://nioo.knaw.nl
+    organization: Netherlands Institute of Ecology (NIOO-KNAW)
+    email: AnE_Database@nioo.knaw.nl
+    individualname: AnE database manager
+    positionname: ""
+    role: pointOfContact
+    phone: ""
+    fax: ""
+    address: ""
+    city: ""
+    administrativearea: ""
+    postalcode: ""
+    country: ""
+identification:
+  url: https://doi.org/10.1007/s10113-014-0718-5
+  title: Bud burst data of Department of Animal Ecology/NIOO-KNAW since 1988 in different areas across the Netherlands
+  abstract: "The stage of bud burst has been measured from 1988 onwards on several
+    tree species in different areas across the Netherlands to record the phenology
+    of the trees. The state of bud burst is visually assessed twice a week in
+    spring (beginning of April to end of May)."
+  dates:
+    creation: ""
+    publication: ""
+    revision: ""
+  edition: ""
+  extents:
+    spatial:
+      - crs: 4326
+        bbox:
+          - 5.574453
+          - 51.82177
+          - 6.019378
+          - 52.11672
+    temporal:
+      - begin: 1988-04-21
+        end: 2023-05-21
+  keywords:
+    i0:
+      keywords:
+        - bud burst
+        - trees
+        - plant phenology
+        - ecology
+      vocabulary:
+        name: ""
+      keywords_type: theme
+  language: en
+  status: completed
+  maintenancefrequency: notPlanned
+  accessconstraints: otherRestrictions
+  rights: CC-BY 4.0
+  topiccategory: []
+acquisition:
+  platforms: []
+dataquality:
+  lineage: {}
+  scope: {}
