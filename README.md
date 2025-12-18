@@ -1,6 +1,6 @@
 # Veluwe Metadata Catalogue Service for the Web (CSW) - Metadata Records
 
-> [!NOTE]
+> [!WARNING]
 > At the current stage, the material in this repository is purely explorative.
 
 This is the metadata repository hosting records from the the [Veluwe Metadata Portal](https://lter-life-experience.org/veluwesearch/) as [metadata control files (MCFs)](https://geopython.github.io/pygeometa/reference/mcf/). See also the related [infrastructure repository](https://github.com/fnattino/veluwe-infrastructure) which hosts the material to deploy a metadata catalogue based on this records using [pyscw](https://pycsw.org/).
